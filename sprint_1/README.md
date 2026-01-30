@@ -20,6 +20,7 @@ Set up the project foundation, development workflow, and initial architecture.
 - Working project repositories
 - Jira Sprint 1 with assigned tasks
 - Backend and frontend base structure ready
+- Landing of index page
 
 ## Sprint Review (to be filled after sprint)
 - 
